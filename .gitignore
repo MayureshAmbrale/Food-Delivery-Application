@@ -1,0 +1,12 @@
+# JetBrains IDE project files
+.idea/
+
+# Environment variables
+.env
+
+# Node modules / build directories (if applicable)
+node_modules/
+dist/
+build/
+
+content.js
